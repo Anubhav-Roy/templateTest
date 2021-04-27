@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/templateTest/static/css/main.6952e64a.chunk.css",
+    "main.js": "/templateTest/static/js/main.7b3ef836.chunk.js",
+    "main.js.map": "/templateTest/static/js/main.7b3ef836.chunk.js.map",
+    "runtime-main.js": "/templateTest/static/js/runtime-main.d9383d37.js",
+    "runtime-main.js.map": "/templateTest/static/js/runtime-main.d9383d37.js.map",
+    "static/js/2.27505fc1.chunk.js": "/templateTest/static/js/2.27505fc1.chunk.js",
+    "static/js/2.27505fc1.chunk.js.map": "/templateTest/static/js/2.27505fc1.chunk.js.map",
+    "index.html": "/templateTest/index.html",
+    "precache-manifest.bd698cf964352b34b77640a84af711dc.js": "/templateTest/precache-manifest.bd698cf964352b34b77640a84af711dc.js",
+    "service-worker.js": "/templateTest/service-worker.js",
+    "static/css/main.6952e64a.chunk.css.map": "/templateTest/static/css/main.6952e64a.chunk.css.map",
+    "static/js/2.27505fc1.chunk.js.LICENSE.txt": "/templateTest/static/js/2.27505fc1.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/templateTest/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/templateTest/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/templateTest/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/templateTest/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/templateTest/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/templateTest/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/templateTest/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/templateTest/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/templateTest/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/templateTest/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/templateTest/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/templateTest/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9383d37.js",
+    "static/js/2.27505fc1.chunk.js",
+    "static/css/main.6952e64a.chunk.css",
+    "static/js/main.7b3ef836.chunk.js"
+  ]
+}
